@@ -12,3 +12,4 @@ final_result = number + d
 
 print(final_result)
 
+new_variable_test = 456
